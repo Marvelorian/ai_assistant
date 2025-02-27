@@ -27,6 +27,9 @@
    - После подтверждения записи информация автоматически добавляется в Google Календарь клиники, что исключает двойные бронирования и упрощает управление расписанием.
    - Клиент получает уведомление о записи на электронную почту или через мессенджер.
 
+![чат бот в ТГ](https://github.com/Marvelorian/ai_assistant/blob/main/ТГ1.png)
+![](https://github.com/Marvelorian/ai_assistant/blob/main/ТГ2.png)
+![Запись в календаре](https://github.com/Marvelorian/ai_assistant/blob/main/GC.png)
 ---
 
 ## Используемые технологии и сервисы
